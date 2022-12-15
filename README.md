@@ -1,6 +1,4 @@
 # react-json-server-crm
-Proyecto implementando un sencillo CRM 
-
 ## Lenguajes/Tecnologías utilizadas
 * React: v18.2.0
 * Vite: v4.0.0
