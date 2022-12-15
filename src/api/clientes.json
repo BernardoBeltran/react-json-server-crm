@@ -1,0 +1,40 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "nombre": "Bernardo",
+      "telefono": 102013313,
+      "email": "ber100023@gmail.com",
+      "empresa": "Softber Labs"
+    },
+    {
+      "nombre": "Camila",
+      "empresa": "Softber Labs",
+      "email": "camila@softber.com",
+      "telefono": "138198313",
+      "notas": "camila quiere un proyecto en react",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "nombre": "Jessica",
+      "telefono": 31983913,
+      "email": "jessica@softber.com",
+      "empresa": "Softber Labs"
+    },
+    {
+      "id": 4,
+      "nombre": "Dayanna",
+      "telefono": 319381983,
+      "email": "dayanna@softber.com",
+      "empresa": "Softber Labs"
+    },
+    {
+      "id": 5,
+      "nombre": "Jhon",
+      "telefono": 1398198938,
+      "email": "jhon@softber.com",
+      "empresa": "Softber Labs"
+    }
+  ]
+}
